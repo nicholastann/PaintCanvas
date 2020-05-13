@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=r\ p
+comment0.target=semicircle(double,\ Point)
+comment1.params=
+comment1.target=double\ getr()
+comment2.params=
+comment2.target=Point\ getp()
+comment3.params=
+comment3.target=java.lang.String\ tostring()
+comment4.params=
+comment4.target=double\ perimeter()
+comment5.params=
+comment5.target=double\ area()
+numComments=6
